@@ -1,6 +1,6 @@
 # Incident Investigation Report on Compromised Windows Workstation
 
-### (https://tinyurl.com/DetectionLabproject)
+### https://tinyurl.com/DetectionLabproject
 
 ## Objective
 
