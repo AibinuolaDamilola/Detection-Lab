@@ -23,4 +23,4 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Event Viewer
 
   # Certificate:
-![THM](https://github.com/blwhit/SOC-Training/assets/141170960/aa961414-ec8b-42ee-babf-5421b2d7a014)
+![image](https://github.com/user-attachments/assets/d239e383-5935-47d6-8174-481425a44cc0)
