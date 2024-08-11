@@ -1,5 +1,7 @@
 # Incident Investigation Report on Compromised Windows Workstation
 
+### (https://tinyurl.com/DetectionLabproject)
+
 ## Objective
 
 
@@ -20,5 +22,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - DeepBlueCLI, a PowerShell Module for Threat Hunting via Windows Event Logs
 - Event Viewer
 
-## Steps
-###(https://medium.com/@evolvewithdami/incident-investigation-report-on-compromised-windows-workstation-project-1-4a5992705718)
+  # Certificate:
+![THM](https://github.com/blwhit/SOC-Training/assets/141170960/aa961414-ec8b-42ee-babf-5421b2d7a014)
